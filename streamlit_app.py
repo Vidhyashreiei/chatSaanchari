@@ -3,7 +3,7 @@ import json
 import re
 import difflib
 from typing import Dict, List, Any, Tuple
-from googletrans import Translator
+#from googletrans import Translator
 import plotly.graph_objects as go
 from datetime import datetime, timedelta
 
